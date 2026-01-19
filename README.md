@@ -1,6 +1,6 @@
 # 🏫 Quinto Desafio – Projeto Aprenser (HTML & CSS)  
 
-Este repositório contém o **quinto desafio** que desenvolvi no curso **SerFrontend (Serliv)**, como parte do meu estágio na **SULTS**.  
+Este repositório contém o **quinto desafio** que desenvolvi no curso **SerFrontend (Serliv)**.
 O objetivo foi criar um **site para a escola fictícia Aprenser**, aplicando conceitos de **HTML e CSS** com foco em layout, tipografia e responsividade.  
 
 ---
@@ -30,6 +30,4 @@ Esse desafio simulou um **site real de escola**, reforçando boas práticas para
 
 ## 📚 Referências  
 Este projeto faz parte do curso:  
-👉 [SerFrontend – Curso HTML, CSS e JS](https://serliv.com/html-css-js)  
-
----
+👉 [SerFrontend – Curso HTML, CSS e JS](https://serliv.com/html-css-js)
